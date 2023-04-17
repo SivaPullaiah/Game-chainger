@@ -64,3 +64,7 @@ LCM=(num1*num2)//HCF
 GCD=(num1*num2)//LCM
 print("The GCD of", num1, "and", num2, "is", GCD)
 </pre>
+
+# 3Simple_interest
+
+Here i use <pre> PTR/100</pre>
